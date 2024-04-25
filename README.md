@@ -1,0 +1,1 @@
+The data used in this analysis was uploaded to Kaggle by JORDI ZARAGOZA. It is based on the original dataset scrapped from 8a.nu by David Cohen (https://www.kaggle.com/datasets/dcohen21/8anu-climbing-logbook). 
